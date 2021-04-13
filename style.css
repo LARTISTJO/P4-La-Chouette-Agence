@@ -672,13 +672,13 @@ a {
     font-size: 20px;
     text-align: center;
     font-weight: lighter;
-    max-width: 521px;
+    max-width: 520px;
     margin: auto auto auto auto;
 }
 
 p
 {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
